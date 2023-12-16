@@ -3,7 +3,7 @@
 
 
 
-[![](/images/book_img.jpeg)](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/)
+[![](/images/HF_book.jpeg)](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/)
 
 
 **Personal Notes to Head First HTML5**
@@ -20,7 +20,7 @@ Some of what you'll learn
 
 ## CONTENT
 1. [Getting To Know HTML5: Welcome To Webville](/chapter1/)
-2. Introducing JavaScript And The DOM: A Little Code
+2. [Introducing JavaScript And The DOM: A Little Code](/chapter2/)
 3. Events, Handlers And All That Jazz: A Little Interaction
 4. JavaScript Functions And Objects: Serious JavaScript
 5. Making Your HTML Location Aware: Geolocation
