@@ -18,6 +18,7 @@ Some of what you'll learn
 - The secret to grabbing five megabytes of storage in every user’s browser.
 - Improve your page’s responsiveness and performance with Web workers.
 
+
 ## CONTENT
 1. [Getting To Know HTML5: Welcome To Webville](/chapter1/)
 2. [Introducing JavaScript And The DOM: A Little Code](/chapter2/)
